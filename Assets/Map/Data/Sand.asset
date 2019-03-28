@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402ae2fc65d498c4b904d3861c2bdf02, type: 3}
+  m_Name: Sand
+  m_EditorClassIdentifier: 
+  componentID: 0c2d7d59-a2d4-4c18-9c59-993a27f6a49e
+  associatedObjID: 
+  dataClassName: Sanguine.SanguineTileData
+  singleObjectList: 1
+  AssociationData: []
+  tileID: 0
+  position: {x: 0, y: 0, z: 0}
+  color:
+  - 255
+  - 255
+  - 255
+  - 255
+  zPos: 0
+  walkSpeed: 1
+  placeableID: 
